@@ -1,0 +1,17 @@
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\bin\Debug\net7.0\api.repositories.deps.json
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\bin\Debug\net7.0\api.repositories.runtimeconfig.json
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\bin\Debug\net7.0\api.repositories.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\bin\Debug\net7.0\api.repositories.pdb
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\bin\Debug\net7.0\api.models.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\bin\Debug\net7.0\api.models.pdb
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.csproj.AssemblyReference.cache
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.AssemblyInfoInputs.cache
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.AssemblyInfo.cs
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.csproj.CoreCompileInputs.cache
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.csproj.CopyComplete
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\refint\api.repositories.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.pdb
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\api.repositories.genruntimeconfig.cache
+C:\Users\Luffy\Desktop\dot-net-7-api\api.repositories\obj\Debug\net7.0\ref\api.repositories.dll
