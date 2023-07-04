@@ -1,0 +1,14 @@
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\bin\Debug\net7.0\api.models.deps.json
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\bin\Debug\net7.0\api.models.runtimeconfig.json
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\bin\Debug\net7.0\api.models.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\bin\Debug\net7.0\api.models.pdb
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\api.models.csproj.AssemblyReference.cache
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\api.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\api.models.AssemblyInfoInputs.cache
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\api.models.AssemblyInfo.cs
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\api.models.csproj.CoreCompileInputs.cache
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\api.models.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\refint\api.models.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\api.models.pdb
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\api.models.genruntimeconfig.cache
+C:\Users\Luffy\Desktop\dot-net-7-api\api.models\obj\Debug\net7.0\ref\api.models.dll
