@@ -1,6 +1,7 @@
 ﻿using api.models.DataModels;
 using api.models.DTOs;
 using AutoMapper;
+using Common.Utils.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,7 @@ namespace api.services.Services.Profiles
         public MapperProfile()
         {
             CreateMap<User, UserDTO>().ReverseMap();
+            CreateMap<User, SessionUserModel>().ReverseMap();
 
             
         }
