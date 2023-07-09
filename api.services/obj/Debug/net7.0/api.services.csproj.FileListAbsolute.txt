@@ -17,3 +17,5 @@ C:\Users\Luffy\Desktop\dot-net-7-api\api.services\obj\Debug\net7.0\refint\api.se
 C:\Users\Luffy\Desktop\dot-net-7-api\api.services\obj\Debug\net7.0\api.services.pdb
 C:\Users\Luffy\Desktop\dot-net-7-api\api.services\obj\Debug\net7.0\api.services.genruntimeconfig.cache
 C:\Users\Luffy\Desktop\dot-net-7-api\api.services\obj\Debug\net7.0\ref\api.services.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.services\bin\Debug\net7.0\Common.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\api.services\bin\Debug\net7.0\Common.pdb
