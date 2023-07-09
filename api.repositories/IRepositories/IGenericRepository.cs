@@ -13,6 +13,7 @@ namespace api.repositories.IRepositories
     {
         //getAll
         IQueryable<T> GetAll();
+        public void Create(T entity);
 
     }
 }

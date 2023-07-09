@@ -259,3 +259,7 @@ C:\Users\Luffy\Desktop\dot-net-7-api\A-P-I\bin\Debug\net7.0\runtimes\unix\lib\ne
 C:\Users\Luffy\Desktop\dot-net-7-api\A-P-I\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Luffy\Desktop\dot-net-7-api\A-P-I\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Luffy\Desktop\dot-net-7-api\A-P-I\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\A-P-I\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\A-P-I\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\A-P-I\bin\Debug\net7.0\Common.dll
+C:\Users\Luffy\Desktop\dot-net-7-api\A-P-I\bin\Debug\net7.0\Common.pdb

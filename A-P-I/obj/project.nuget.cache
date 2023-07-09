@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XxZWNSq6hmmCROEhKVJGsOTU3sDLZHCVeFxVGgjvwE1MOTNxs3PARpugIaa4SB0h1hBD9i/+9WObfjU7rSGJWg==",
+  "dgSpecHash": "aKXSxRyaOWVmeMNWhi5B4ezinwRlLafK67+JumIuJCfXmBEdfCZ5gZbLas7uPfclMGEpZfmZG5d4ylZlNQMztA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\A-P-I\\A-P-I.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luffy\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Luffy\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\efcore.namingconventions\\7.0.2\\efcore.namingconventions.7.0.2.nupkg.sha512",

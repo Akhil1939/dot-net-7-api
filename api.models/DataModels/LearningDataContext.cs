@@ -50,7 +50,7 @@ public partial class LearningDataContext : DbContext
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.UserId).HasName("PK__User__B9BE370F676420F9");
+            entity.HasKey(e => e.UserId).HasName("PK__User__B9BE370F0B9E0821");
 
             entity.ToTable("User");
 

@@ -11,13 +11,16 @@ namespace api.services.Services
 {
     public class GenericServices<T> : IGenericService<T> where T : class
     {
-        private readonly IGenericRepository<T> repository;
+        private readonly IGenericRepository<T> _repository;
 
         public GenericServices(IGenericRepository<T> repository)
         {
-            this.repository = repository;
+            _repository = repository;
         }
 
-        
+        public void Create(T entity)
+        {
+            _repository.Create(entity);
+        }
     }
 }
