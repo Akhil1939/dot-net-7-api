@@ -37,6 +37,9 @@
               },
               "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\api.services\\api.services.csproj": {
                 "projectPath": "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\api.services\\api.services.csproj"
+              },
+              "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\Common\\Common.csproj"
               }
             }
           }
@@ -51,6 +54,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "EFCore.NamingConventions": {
               "target": "Package",
               "version": "[7.0.2, )"
@@ -147,6 +158,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "EFCore.NamingConventions": {
               "target": "Package",
               "version": "[7.0.2, )"
@@ -232,6 +247,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "EFCore.NamingConventions": {
               "target": "Package",
               "version": "[7.0.2, )"
@@ -341,6 +360,61 @@
               "version": "[4.3.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Luffy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Luffy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

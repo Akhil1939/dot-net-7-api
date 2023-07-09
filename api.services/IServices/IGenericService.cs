@@ -8,9 +8,10 @@ namespace api.services.IServices
 {
     public interface IGenericService<T> where T : class
     {
-       
-        //get all
-        
+        void Create(T entity);
+
+
+
 
     }
 }

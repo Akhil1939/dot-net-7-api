@@ -25,5 +25,11 @@ namespace api.repositories.Repositories
         {
            return  _dbSet.AsQueryable();
         }
+
+        public void Create(T entity)
+        {
+            _dbSet.Add(entity);
+           _context.SaveChanges();
+        }
     }
 }

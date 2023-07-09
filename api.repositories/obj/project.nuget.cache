@@ -1,15 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Ulw2g4Ugu+eTFmM86n8s47t7ksqcG5v6ywvU7SFewRgNbpaZGdRu5+DmFihP2M33JUmB4BU8FJm62KgNoz7sTQ==",
+  "dgSpecHash": "fie2SU0a/df4ZBHE8rVvLeB38t8HfS0IZjTRhytOGdeNXRs9PJclQ1WgT8P7den/T0k4H0l5A6r88V1WmyjlDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luffy\\Desktop\\dot-net-7-api\\api.repositories\\api.repositories.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luffy\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\efcore.namingconventions\\7.0.2\\efcore.namingconventions.7.0.2.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",

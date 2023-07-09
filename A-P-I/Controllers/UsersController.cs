@@ -8,6 +8,10 @@ using Microsoft.EntityFrameworkCore;
 using api.models.DataModels;
 using api.services.Services;
 using api.services.IServices;
+using api.models.DTOs;
+using API.Response;
+using API.Utils;
+using System.Net;
 
 namespace A_P_I.Controllers
 {
@@ -17,6 +21,7 @@ namespace A_P_I.Controllers
     {
         private readonly IUserService _service;
 
+
         public UsersController(IUserService service)
         {
             _service = service;
@@ -24,12 +29,19 @@ namespace A_P_I.Controllers
 
         // GET: api/Users
         [HttpGet]
-        public ActionResult<IEnumerable<User>> GetUsers()
+        public IActionResult GetUsers([FromQuery]UserListRequestDTO requestParams)
         {
-          
-            return  _service.GetAll().ToList();
+
+            PageListResponseDTO<UserDTO> response = _service.GetAll(requestParams);
+
+            return new SuccessResponseHelper<PageListResponseDTO<UserDTO>>().GetSuccessResponse((int)HttpStatusCode.OK, response);
         }
 
-        
+        [HttpPost]
+        public IActionResult Create(RegisterDTO user)
+        {
+            _service.Create(user);
+            return new SuccessResponseHelper<object>().GetSuccessResponse((int)HttpStatusCode.Created, "User created successfully", null);
+        }
     }
 }
